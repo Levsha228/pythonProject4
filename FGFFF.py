@@ -4,7 +4,7 @@ from aiogram.filters import Command, Text
 from aiogram.types import Message, ContentType
 from translate import Translator
 import time
-
+#Ghbdrtdtg
 translator = Translator(to_lang='ru')
 weatherbot_token = '5909589595:AAFj5H0gQ-he2rdHU9oqaA2fs4CR6q_z3dg'
 manager_of_world_bot_token = '5809889046:AAFowyM52dvYoplUA3x7PBvrp1Gc6q4nmpg' # MAIN!!!
